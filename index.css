@@ -1,0 +1,52 @@
+/**{
+    margin: 0;
+    left: 0;
+    top: 0;
+}*/
+
+header{
+    display: flex;
+    font-family: cursive;
+    height: 90px;
+    background-color: darkcyan;
+    justify-content:space-between;
+    flex-direction:row;
+    align-items:center;
+    padding: 20px;
+}
+
+
+
+#Nav h1{
+    font-family: cursive;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.Titulo{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+
+.Contenido{
+    margin: 20px;
+    background-color:lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    color:azure;
+    max-width: 2000px;
+    padding: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5%;
+}
+
+.Foto{
+    display: flex;
+    height: 320px;
+    margin-left: 550px;
+    
+}
